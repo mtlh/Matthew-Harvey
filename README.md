@@ -29,6 +29,6 @@
 
 [website]: https://matthew-harvey.github.io
 [linkedin]: https://linkedin.com/in/m-harvey
-[webdevplaylist]: #
+[webdevplaylist]: https://matthew-harvey.github.io
 [resume]: https://matthew-harvey.github.io/myCV.pdf
 
