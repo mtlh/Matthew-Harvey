@@ -5,7 +5,6 @@
 
 <br />
 <br />
-<br />
 
 ### Technical Skills:
 
