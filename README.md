@@ -28,8 +28,5 @@
 
 <br />
 <br />
-
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matthew-Harvey&show_icons=true&hide_border=true" />
-
 [website]: https://matthew-harvey.github.io
 [linkedin]: https://linkedin.com/in/m-harvey
