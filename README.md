@@ -27,8 +27,8 @@
 [<img align="left" alt="C#" width="30px" src="https://github.com/Matthew-Harvey/Matthew-Harvey/blob/master/C_Sharp_logo.svg?raw=true" />][webdevplaylist]
 [<img align="left" alt="ASP.NET" width="30px" src="https://github.com/Matthew-Harvey/Matthew-Harvey/blob/master/net-seeklogo.com.svg?raw=true" />][webdevplaylist]
 
-[website]: https://matthew-harvey.github.io
-[linkedin]: https://linkedin.com/in/m-harvey
+[website]: https://matthew-harvey.github.io/
+[linkedin]: https://linkedin.com/in/m-harvey/
 [webdevplaylist]: https://github.com/Matthew-Harvey/
 [resume]: https://matthew-harvey.github.io/myCV.pdf
 
