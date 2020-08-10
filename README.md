@@ -2,7 +2,7 @@
 
 [<img align="left" alt="portfolio" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="resume" width="38px" src="https://img.icons8.com/dotty/80/000000/open-resume.png" />][resume]
+[<img align="left" alt="resume" width="38px" src="https://img.icons8.com/dotty/80/000000/open-resume.png" />][cv]
 
 <br />
 <br />
@@ -30,5 +30,5 @@
 [website]: https://matthew-harvey.github.io/
 [linkedin]: https://linkedin.com/in/m-harvey/
 [webdevplaylist]: https://github.com/Matthew-Harvey/
-[resume]: https://matthew-harvey.github.io/myCV.pdf
+[cv]: https://matthew-harvey.github.io/myCV.pdf
 
