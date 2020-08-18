@@ -13,7 +13,7 @@
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][js]
 [<img align="left" alt="AJAX" width="30px" src="https://github.com/Matthew-Harvey/Matthew-Harvey/blob/master/AJAX_logo_by_gengns.svg?raw=true"/>][ajax]
-[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][node]
+[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>][sql]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][git]
 [<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>][aws]
@@ -35,7 +35,7 @@
 [css]: https://www.google.com/search?q=css3
 [js]: https://www.google.com/search?q=javacript
 [ajax]: https://www.google.com/search?q=ajax
-[node]: https://www.google.com/search?q=nodejs
+[nodejs]: https://www.google.com/search?q=nodejs
 [sql]: https://www.google.com/search?q=sql
 [git]: https://www.google.com/search?q=git
 [aws]: https://www.google.com/search?q=aws
