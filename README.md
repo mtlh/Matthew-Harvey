@@ -1,8 +1,8 @@
 # Software Developer
 
-[<img align="left" alt="portfolio" width="54px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin" width="54px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="resume" width="57px" src="https://img.icons8.com/dotty/80/000000/open-resume.png" />][cv]
+[<img align="left" alt="portfolio" width="47px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="linkedin" width="47px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="resume" width="50px" src="https://img.icons8.com/dotty/80/000000/open-resume.png" />][cv]
 
 <br />
 <br />
