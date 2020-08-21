@@ -5,8 +5,6 @@
 [<img align="left" alt="resume" width="45px" src="https://img.icons8.com/dotty/80/000000/open-resume.png" />][cv]
 
 <br />
-<br />
-<br />
 
 ## Technical Skills:
 
