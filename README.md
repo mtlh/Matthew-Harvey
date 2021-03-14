@@ -25,8 +25,8 @@
 [<img align="left" alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>][django]
 [<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>][bootstrap]
 [<img align="left" alt="jQuery" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>][jq]
-[<img align="left" alt="C#" width="30px" src="https://github.com/Matthew-Harvey/Matthew-Harvey/blob/master/C_Sharp_logo.svg?raw=true"/>][csharp]
-[<img align="left" alt=".NET MVC" width="30px" src="https://github.com/Matthew-Harvey/Matthew-Harvey/blob/master/net-seeklogo.com.svg?raw=true"/>][asp]
+[<img align="left" alt="C#" width="30px" src="https://github.com/Matthew-Harvey/Matthew-Harvey/blob/master/csharp.svg?raw=true"/>][csharp]
+[<img align="left" alt=".NET MVC" width="30px" src="https://github.com/Matthew-Harvey/Matthew-Harvey/blob/master/dotnet.svg?raw=true"/>][asp]
 
 [website]: https://matthew-harvey.github.io/
 [linkedin]: https://linkedin.com/in/m-harvey/
