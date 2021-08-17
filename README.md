@@ -4,9 +4,9 @@
 [<img align="left" alt="linkedin" width="43px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="resume" width="49px" src="https://img.icons8.com/dotty/80/000000/open-resume.png"/>][cv]
 
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 ## Used Technologies Include:
 
