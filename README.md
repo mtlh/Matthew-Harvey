@@ -30,7 +30,7 @@
 [website]: https://matthew-harvey.github.io/
 [linkedin]: https://linkedin.com/in/m-harvey/
 [webdevplaylist]: https://github.com/Matthew-Harvey/
-[cv]: https://matthew-harvey.github.io/Matthew-Harvey-CV.pdf
+[cv]: https://matthew-harvey.github.io/MatthewHarvey-CV.pdf
 [html]: https://www.google.com/search?q=html5
 [css]: https://www.google.com/search?q=css3
 [js]: https://www.google.com/search?q=javacript
