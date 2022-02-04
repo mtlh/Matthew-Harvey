@@ -1,4 +1,4 @@
-# Software Developer
+# Software Developer / BSc Computer Science @ De Montfort University
 
 [<img align="left" alt="portfolio" width="43px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="linkedin" width="43px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
