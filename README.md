@@ -6,6 +6,8 @@
 
 <br/>
 <br/>
+Computer Science BSc at De Montfort University
+<br/>
 <br/>
 
 ## Used Technologies Include:
