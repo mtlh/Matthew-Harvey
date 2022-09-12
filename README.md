@@ -1,55 +1,12 @@
 # Software Developer
 
 Computer Science BSc at De Montfort University
-<br/>
-<br/>
+<br />
+<br />
+<a href="mailto:matthewtlharvey@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/m-harvey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://mharvey.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 
-[<img align="left" alt="portfolio" width="43px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="linkedin" width="43px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="cv" width="49px" src="https://img.icons8.com/dotty/80/000000/open-resume.png"/>][cv]
-
-<br/>
-<br/>
-<br/>
-
-## Used Technologies Include:
-
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][js]
-[<img align="left" alt="AJAX" width="30px" src="https://github.com/Matthew-Harvey/Matthew-Harvey/blob/master/otherajax.svg?raw=true"/>][ajax]
-[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>][sql]
-[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][git]
-[<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>][aws]
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][py]
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>][java]
-[<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>][php]
-[<img align="left" alt="Flask" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"/>][flask]
-[<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>][bootstrap]
-[<img align="left" alt="jQuery" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>][jq]
-[<img align="left" alt="C#" width="30px" src="https://github.com/Matthew-Harvey/Matthew-Harvey/blob/master/csharp.svg?raw=true"/>][csharp]
-[<img align="left" alt=".NET MVC" width="30px" src="https://github.com/Matthew-Harvey/Matthew-Harvey/blob/master/dotnet.svg?raw=true"/>][asp]
-
-[website]: https://matthew-harvey.github.io/
-[linkedin]: https://linkedin.com/in/m-harvey/
-[webdevplaylist]: https://github.com/Matthew-Harvey/
-[cv]: https://matthew-harvey.github.io/MatthewHarvey-CV.pdf
-[html]: https://www.google.com/search?q=html5
-[css]: https://www.google.com/search?q=css3
-[js]: https://www.google.com/search?q=javacript
-[ajax]: https://www.google.com/search?q=ajax
-[nodejs]: https://www.google.com/search?q=nodejs
-[sql]: https://www.google.com/search?q=sql
-[git]: https://www.google.com/search?q=git
-[aws]: https://www.google.com/search?q=aws
-[py]: https://www.google.com/search?q=python
-[java]: https://www.google.com/search?q=java
-[php]: https://www.google.com/search?q=php
-[flask]: https://www.google.com/search?q=flask
-[django]: https://www.google.com/search?q=django
-[bootstrap]: https://www.google.com/search?q=bootstrap
-[jq]: https://www.google.com/search?q=jQuery
-[csharp]: https://www.google.com/search?q=csharp
-[asp]: https://www.google.com/search?q=asp.net
-
+## Main Skills Include:
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+...and many others
