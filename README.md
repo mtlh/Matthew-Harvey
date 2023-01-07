@@ -1,6 +1,6 @@
 # Software Developer
 
-Computer Science BSc at De Montfort University
+Studing <i>Computer Science BSc</i> at De Montfort University
 <br />
 <br />
 <a href="mailto:matthewtlharvey@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
